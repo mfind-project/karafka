@@ -17,6 +17,7 @@
   dry/monitor/notifications
   dry/core/constants
   zeitwerk
+  concurrent
 ].each(&method(:require))
 
 # Karafka library
